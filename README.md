@@ -67,4 +67,22 @@
 환자가 호출을 했을 때 변하는 화면이다. 환자 한명이라도 호출이 들어왔을 시 경고음이 울리며 환자 확인을 통해 호출 상황을 종료할 수 있다.
 
 ## Contributors
-기여자
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="200">
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>심종우</b></sub>
+      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>각자 이름</b></sub>
+      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>으로 수정</b></sub>
+      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>링크도 수정</b></sub>  
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="200"><sub><b>Flutter, Firebase</b></sub>
+      <td align="center" valign="top" width="200"><sub><b>각자</b></sub>
+      <td align="center" valign="top" width="200"><sub><b>기여한</b></sub>
+      <td align="center" valign="top" width="200"><sub><b>내용적기</b></sub> 
+    </tr>
+  </tbody>
+</table>
