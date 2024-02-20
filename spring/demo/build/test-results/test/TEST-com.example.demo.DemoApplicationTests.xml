@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.DemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-08T07:36:56" hostname="gimjihyeon-ui-MacBookPro.local" time="1.035">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.demo.DemoApplicationTests" time="1.035"/>
+  <system-out><![CDATA[Standard Commons Logging discovery in action with spring-jcl: please remove commons-logging.jar from classpath in order to avoid potential conflicts
+16:36:53.520 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.demo.DemoApplicationTests]: DemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:36:53.702 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.demo.DemoApplication for test class com.example.demo.DemoApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2024-02-08T16:36:54.093+09:00  INFO 16170 --- [    Test worker] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 20.0.2 with PID 16170 (started by gimjihyeon in /Users/gimjihyeon/demo)
+2024-02-08T16:36:54.095+09:00  INFO 16170 --- [    Test worker] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-08T16:36:55.672+09:00  INFO 16170 --- [    Test worker] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@63a9c661, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b425577, org.springframework.security.web.context.SecurityContextHolderFilter@364fd4ae, org.springframework.security.web.header.HeaderWriterFilter@623e0631, org.springframework.web.filter.CorsFilter@5934153e, org.springframework.security.web.csrf.CsrfFilter@3a7c678b, org.springframework.security.web.authentication.logout.LogoutFilter@39b626e5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@12417468, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d325518, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3bb9ca38, org.springframework.security.web.access.ExceptionTranslationFilter@661d6bb6]
+2024-02-08T16:36:56.085+09:00  INFO 16170 --- [    Test worker] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 2.217 seconds (process running for 3.648)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
