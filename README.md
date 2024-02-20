@@ -78,13 +78,13 @@
     <tr>
       <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>심종우</b></sub>
       <td align="center" valign="top" width="200"><a href="https://github.com/zhyunn"><sub><b>김지현</b></sub>
-      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>으로 수정</b></sub>
-      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>링크도 수정</b></sub>  
+      <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>강혜림</b></sub>
+      <td align="center" valign="top" width="200"><a href="https://github.com/Hyerim20"><sub><b>링크도 수정</b></sub>  
     </tr>
     <tr>
       <td align="center" valign="top" width="200"><sub><b>Flutter, Firebase</b></sub>
       <td align="center" valign="top" width="200"><sub><b>Spring, Firebase</b></sub>
-      <td align="center" valign="top" width="200"><sub><b>기여한</b></sub>
+      <td align="center" valign="top" width="200"><sub><b>Spring, Firebase</b></sub>
       <td align="center" valign="top" width="200"><sub><b>내용적기</b></sub> 
     </tr>
   </tbody>
