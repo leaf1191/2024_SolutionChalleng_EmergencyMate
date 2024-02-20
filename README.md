@@ -70,7 +70,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="200">
+      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>
+      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>
+      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>
+      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>  
     </tr>
     <tr>
       <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>심종우</b></sub>
