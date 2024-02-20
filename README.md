@@ -30,14 +30,21 @@
 ### Call Bell
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/a2db6911-e27d-47a6-bbfd-588c516f4ff5" width = 300 height = 600>
 
+### When Admin Call
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/d606ac86-6adf-41ff-bbff-64c0510e0432" width = 300 height = 600>
+
 ### Admin Page
-<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/b0dcbe73-e938-427c-a855-00820565355e" width = 300 height = 600>
+
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/1aa23e99-f777-4f6f-bfaa-d23af394a3f9" width = 300 height = 600>
 
 ### Patient Register
-<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/1d062760-3bae-4d51-8e17-eb1485f22314" width = 300 height = 600>
+
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/4af9ad0e-29b0-4c4c-b0c8-7206b240160e" width = 300 height = 600>
 
 ### When Patient Call
-<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/c009af5f-df10-4017-b63b-e8eade903d28" width = 300 height = 600>
 
 ## Contributors
 기여자
