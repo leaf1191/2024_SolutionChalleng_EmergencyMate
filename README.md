@@ -73,19 +73,19 @@
       <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>
       <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/146098855/ede0a4d1-da68-441c-92a1-006035ba1e32" width = 200 height = 200>
       <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/104562082/76af99bd-04d1-4267-955a-f2a505909876" width = 200 height = 200>
-      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>  
+      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/109638538/cc7b794e-1485-4383-9bcc-227e31f4d5ab" width = 200 height = 200>  
     </tr>
     <tr>
       <td align="center" valign="top" width="200"><a href="https://github.com/leaf1191"><sub><b>심종우</b></sub>
       <td align="center" valign="top" width="200"><a href="https://github.com/zhyunn"><sub><b>김지현</b></sub>
       <td align="center" valign="top" width="200"><a href="https://github.com/Hyerim20"><sub><b>강혜림</b></sub>
-      <td align="center" valign="top" width="200"><a href="https://github.com/Hyerim20"><sub><b>링크도 수정</b></sub>  
+      <td align="center" valign="top" width="200"><a href="https://github.com/Nayeon-2"><sub><b>이나연</b></sub>  
     </tr>
     <tr>
       <td align="center" valign="top" width="200"><sub><b>Flutter, Firebase</b></sub>
       <td align="center" valign="top" width="200"><sub><b>Spring, Firebase</b></sub>
       <td align="center" valign="top" width="200"><sub><b>Spring, Firebase</b></sub>
-      <td align="center" valign="top" width="200"><sub><b>내용적기</b></sub> 
+      <td align="center" valign="top" width="200"><sub><b>Arduino, Video Editing</b></sub> 
     </tr>
   </tbody>
 </table>
