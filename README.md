@@ -11,30 +11,33 @@
 
 ## How to use?
 ### Login
-![login](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
 ### Select
-![select](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/e4ed2709-6cf9-48f6-bcec-bea47e0c0396)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/e4ed2709-6cf9-48f6-bcec-bea47e0c0396" width = 300 height = 600>
 
 ### Patient Page
-![patient](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/fb29bc23-069a-47ea-8235-330d925edd67)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/fb29bc23-069a-47ea-8235-330d925edd67" width = 300 height = 600>
 
 ### Heart Beat
-![heartbeat](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/dd55fb5d-c80b-4005-97fb-a3c26fd0b140)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/dd55fb5d-c80b-4005-97fb-a3c26fd0b140" width = 300 height = 600>
 
 ### Wait Info
-![no_wait](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7990f916-7653-4b4e-bb66-49a608a1aace)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7990f916-7653-4b4e-bb66-49a608a1aace" width = 300 height = 600>
 
-![wait](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/272bc88a-ed63-450e-a1a9-1e0c77ae1652)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/272bc88a-ed63-450e-a1a9-1e0c77ae1652" width = 300 height = 600>
 
 ### Call Bell
-![call](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/a2db6911-e27d-47a6-bbfd-588c516f4ff5)
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/a2db6911-e27d-47a6-bbfd-588c516f4ff5" width = 300 height = 600>
 
 ### Admin Page
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
 ### Patient Register
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
 ### When Patient Call
+<img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
 ## Contributors
 기여자
