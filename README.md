@@ -72,7 +72,7 @@
     <tr>
       <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>
       <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/146098855/ede0a4d1-da68-441c-92a1-006035ba1e32" width = 200 height = 200>
-      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>
+      <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/104562082/76af99bd-04d1-4267-955a-f2a505909876" width = 200 height = 200>
       <td align="center" valign="top" width="200"><img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7ae8661c-e289-4957-a7fc-022cca93c930" width = 200 height = 200>  
     </tr>
     <tr>
