@@ -13,38 +13,58 @@
 ### Login
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
+가운데 로그인 버튼으로 구글 소셜로그인이 가능하다.
+
 ### Select
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/e4ed2709-6cf9-48f6-bcec-bea47e0c0396" width = 300 height = 600>
+
+역할 유형을 선택한다. 환자를 선택하면 환자페이지로 관리자를 선택하면 관리자 페이지로 이동한다. 한 번 선택하면 로그아웃 전까지는 되돌릴 수 없다.
 
 ### Patient Page
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/fb29bc23-069a-47ea-8235-330d925edd67" width = 300 height = 600>
 
-### Heart Beat
+환자 메인 페이지로 로그아웃 및 다양한 페이지로의 이동을 지원한다. 다음은 환자페이지의 주요 기능들이다.
+
+#### Heart Beat
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/dd55fb5d-c80b-4005-97fb-a3c26fd0b140" width = 300 height = 600>
 
-### Wait Info
+심박수 측정 페이지다. 하단의 블루투스 버튼을 눌러 블루투스 장치와 연동할 수 있다. 성공적으로 연동되면 실시간으로 심박수를 감지하며 문제시 등록이 되었다면 관리자를 호출한다. 호출 시 경고음이 울린다.
+
+#### Wait Info
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7990f916-7653-4b4e-bb66-49a608a1aace" width = 300 height = 600>
 
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/272bc88a-ed63-450e-a1a9-1e0c77ae1652" width = 300 height = 600>
 
-### Call Bell
+대기 정보 확인 페이지다. 미등록시 좌측화면이 등록시 우측화면이 나오며 입력 정보 및 대기번호를 확인할 수가 있다.
+
+#### Call Bell
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/a2db6911-e27d-47a6-bbfd-588c516f4ff5" width = 300 height = 600>
 
-### When Admin Call
+호출벨이다. 호기심, 혹은 실수로 눌러 혼란을 야기하는 것을 방지하기 위해 3초간 눌러야 작동하도록 설계하였다. 역시 등록이 되어야 호출한다. 호출 시 경고음이 울린다.
+
+#### When Admin Call
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/d606ac86-6adf-41ff-bbff-64c0510e0432" width = 300 height = 600>
+
+관리자가 환자를 호출했을 때 이동하는 화면이다. 환자쪽에서는 자체적으로 이동하는 것이 불가능하고 로그아웃만이 가능하다. 로그아웃시 관리자 목록에서 삭제되며, 환자의 차례가 되었음을 알려 원활한 업무 진행을 돕는다.
 
 ### Admin Page
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/b0dcbe73-e938-427c-a855-00820565355e" width = 300 height = 600>
 
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/1aa23e99-f777-4f6f-bfaa-d23af394a3f9" width = 300 height = 600>
 
-### Patient Register
+관리자 화면이다. 로그아웃 버튼과 더불어 등록된 환자를 grid 방식으로 확인할 수 있으며, 환자의 차례를 알리는 호출, grid에서의 삭제를 할 수 있다. 환자 칸을 누르면 등록된 정보를 확인할 수 있다. 상단의 추가를 누르면 미등록 환자를 등록할 수 있다.
+
+#### Patient Register
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/1d062760-3bae-4d51-8e17-eb1485f22314" width = 300 height = 600>
 
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/4af9ad0e-29b0-4c4c-b0c8-7206b240160e" width = 300 height = 600>
 
-### When Patient Call
+미등록 환자 추가 화면이다. 리스트의 칸을 눌러 작성페이지로 이동하며 작성페이지에서 상세정보를 등록한다. 성공적으로 등록되면 메인 화면 grid에 추가된다.
+
+#### When Patient Call
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/c009af5f-df10-4017-b63b-e8eade903d28" width = 300 height = 600>
+
+환자가 호출을 했을 때 변하는 화면이다. 환자 한명이라도 호출이 들어왔을 시 경고음이 울리며 환자 확인을 통해 호출 상황을 종료할 수 있다.
 
 ## Contributors
 기여자
