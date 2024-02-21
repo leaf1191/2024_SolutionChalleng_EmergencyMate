@@ -3,13 +3,13 @@
 ## 🎯 Introduction
 A patient died of cardiac arrest at a university hospital in South Korea after waiting for a long time.The hospital allegedly lefted the patient because he appeared to be sleeping. This case highlights the difficulty of managing long waiting lists in busy hospitals, and is a very serious issue that can lead to patient death in the worst case scenario. The hospital's solution to this problem is to increase nursing staffing, as well as CCTV and monitoring. However, nursing staffing is already understaffed, making round-the-clock staffing inefficient, and CCTV monitoring can't really detect patients in cardiac arrest. EmergencyMate can detect when a patient really needs help by utilizing the call bell function, allowing nursing staff to focus their attention on that moment, enabling efficient nursing staff utilization and patient care. EmergencyMate also utilizes an Arduino device to check the actual heart rate and make an immediate call in case of a problem to actually solve the problem.
 
-## 🛠 Architecture
-![architecture](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/d1ec5fd8-d7fb-46a7-9e19-a9660e269b45)
-
 ## 📽 Demo Video
 <a href="https://github.com/leaf1191">![youtube](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/65040981-53b2-4bac-8212-c41469ac1d50)
 
-## ❓️ How to use?
+## 🛠 Architecture
+![architecture](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/d1ec5fd8-d7fb-46a7-9e19-a9660e269b45)
+
+## ❓️ How to use
 ### 1. Login
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
