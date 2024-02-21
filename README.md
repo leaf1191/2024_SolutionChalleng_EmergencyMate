@@ -6,7 +6,7 @@ A patient died of cardiac arrest at a university hospital in South Korea after w
 EmergencyMate can detect when a patient really needs help by utilizing the call bell function, allowing nursing staff to focus their attention on that moment, enabling efficient nursing staff utilization and patient care. EmergencyMate also utilizes an Arduino device to check the actual heart rate and make an immediate call in case of a problem to actually solve the problem.
 
 ## 📽 Demo Video
-<a href="https://github.com/leaf1191">![youtube](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/65040981-53b2-4bac-8212-c41469ac1d50)
+<a href="https://www.youtube.com/watch?v=xXW2ueVo10g">![youtube](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/65040981-53b2-4bac-8212-c41469ac1d50)
 
 ## 🛠 Architecture
 ![architecture](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/d1ec5fd8-d7fb-46a7-9e19-a9660e269b45)
