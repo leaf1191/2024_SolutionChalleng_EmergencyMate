@@ -9,7 +9,7 @@ A patient died of cardiac arrest at a university hospital in South Korea after w
 ## 🛠 Architecture
 ![architecture](https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/d1ec5fd8-d7fb-46a7-9e19-a9660e269b45)
 
-## ❓️ How to use
+## ❓️ How To Use
 ### 1. Login
 <img src = "https://github.com/leaf1191/2024_SolutionChallenge_EmergencyMate/assets/136419794/7b0c3ec1-3242-4e9f-b710-fa907b72b8d7" width = 300 height = 600>
 
