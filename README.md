@@ -71,7 +71,7 @@ This is the screen that changes when a patient calls in. If even one patient is 
 ## 📘 Execution Guide
 **For Android**
 
-You can download .zip file which includes our apk at Releases.
+You can download our apk at Releases.
 
 **For iOS**
 
