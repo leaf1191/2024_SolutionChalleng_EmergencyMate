@@ -68,6 +68,15 @@ This is the Add unregistered patient screen. Click the field in the list to go t
 
 This is the screen that changes when a patient calls in. If even one patient is paged, a beep sounds and you can end the call by confirming the patient.
 
+## 📘 Execution Guide
+**For Android**
+
+You can download .zip file which includes our apk at Releases.
+
+**For iOS**
+
+We will plan to expand our project can include ios users.
+
 ## 💡 Contributors
 <table>
   <tbody>
